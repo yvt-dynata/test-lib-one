@@ -1,9 +1,9 @@
 package lib
 
 func testOne() string {
-	return "testOne v2"
+	return "testOne v3"
 }
 
 func TestOne() string {
-	return "TestOne v2"
+	return "TestOne v3"
 }
